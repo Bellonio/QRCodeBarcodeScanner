@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QRCode/Barcode scanner</string>
+
+    <string name="lblResult">Here will be the result of the scansion</string>
+    <string name="btnSearch">SEARCH ON BROWSER</string>
+    <string name="scanError">SOMETHING WENT WRONG !</string>
+
+    <string name="thanks">This app is Open Source, so all the code is available on
+        GitHub at:\nhttps://github.com/Bellonio/QRCodeBarcodeScanner\n\n\nA special thanks to
+        <b><i>Yuriy Budiyev</i></b>, the programmer that made the library, that I used, to
+        read <b>QRCodes / Barcodes</b> and make it Open Source on GitHub.</string>
+
+    <string name="btnTurnBack">GO BACK TO\nTHE SCANNER</string>
+</resources>
