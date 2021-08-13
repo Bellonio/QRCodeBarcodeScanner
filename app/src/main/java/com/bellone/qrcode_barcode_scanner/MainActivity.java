@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.btnSearchOnBrowser:
                 if(found) {
-                    Intent intent = new Intent(Intent.ACTION_SEARCH);
+                    Intent intent = new Intent(Intent.ACTION_WEB_SEARCH);
                     intent.putExtra(SearchManager.QUERY, lblResult.getText().toString());
                     startActivity(intent);
                 }
