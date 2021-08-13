@@ -44,7 +44,7 @@
         android:layout_marginBottom="2dp"
         android:layout_weight="1"
         app:autoFocusButtonVisible="true"
-        app:flashButtonVisible="false"
+        app:flashButtonVisible="true"
         app:frameAspectRatioHeight="1"
         app:frameAspectRatioWidth="1"
         app:frameColor="@color/white"
